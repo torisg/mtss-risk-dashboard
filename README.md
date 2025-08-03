@@ -4,7 +4,7 @@ MTSS Risk Dashboard
 
 The MTSS (Multi-Tiered System of Supports) Risk Dashboard is an interactive Shiny app designed for schools and educators to track student performance, flag at-risk students, and support data-driven intervention planning.
 
-![MTSS Risk Dashboard Screenshot]<img width="1875" height="1051" alt="Image" src="https://github.com/user-attachments/assets/42ff9f74-9c4a-4f4f-9747-8616cfa0e446" />
+<img width="1875" height="1051" alt="Image" src="https://github.com/user-attachments/assets/42ff9f74-9c4a-4f4f-9747-8616cfa0e446" />
 
 
 
