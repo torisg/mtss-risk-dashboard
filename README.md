@@ -8,6 +8,7 @@ The MTSS (Multi-Tiered System of Supports) Risk Dashboard is an interactive Shin
 
 
 
+
 This dashboard takes raw student data (CSV or Google Sheets) and transforms it into visual insights, helping school teams quickly identify students who may need Tier 2 or Tier 3 support.
 
 ---
@@ -39,7 +40,7 @@ install.packages(c("shiny", "tidyverse", "DT", "googlesheets4"))
 ## 🌐 Deployment
 The dashboard can also be deployed online via **[shinyapps.io](https://www.shinyapps.io/)** so educators can access it from any device without installing R.
 
-(Optional: Add your shinyapps.io link here if you want to share a live demo.)
+
 
 ---
 
