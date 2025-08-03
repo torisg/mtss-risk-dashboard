@@ -38,7 +38,7 @@ install.packages(c("shiny", "tidyverse", "DT", "googlesheets4"))
 ---
 
 ## 🌐 Deployment
-The dashboard can also be deployed online via **[shinyapps.io](https://www.shinyapps.io/)** so educators can access it from any device without installing R.
+The dashboard can also be deployed online via (https://torisg.shinyapps.io/mtss_risk_dashboard/) so you may access it from any device without installing R.
 
 
 
